@@ -5,3 +5,10 @@ Overview
 This project implements a Zero Trust security model in Azure using policy-as-code, RBAC hardening, and CI/CD enforcement pipelines.
 
 It enforces preventive controls across multiple subscriptions using Azure Policy, Bicep, and Azure DevOps.
+
+Features
+Policy-as-Code (Bicep)
+Preventive guardrails (deny public access, enforce TLS)
+Multi-environment support (DEV/TEST/PROD)
+CI/CD validation with PSRule
+Compliance reporting via Azure Resource Graph
