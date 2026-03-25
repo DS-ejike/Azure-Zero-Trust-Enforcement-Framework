@@ -10,3 +10,11 @@ Features
 
 Policy-as-Code (Bicep)
 
+Preventive guardrails (deny public access, enforce TLS)
+
+Multi-environment support (DEV/TEST/PROD)
+
+CI/CD validation with PSRule
+
+Compliance reporting via Azure Resource Graph
+
