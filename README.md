@@ -6,3 +6,7 @@ This project implements a Zero Trust security model in Azure using policy-as-cod
 
 It enforces preventive controls across multiple subscriptions using Azure Policy, Bicep, and Azure DevOps.
 
+Features
+
+Policy-as-Code (Bicep)
+
